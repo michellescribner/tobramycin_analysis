@@ -1,0 +1,17 @@
+Sample,Evidence,Seq.ID,Position,Mutation,Annotation,Gene,Description,Seq.Id,Position,Reads..Cov.,Reads..Cov..1,Score,Skew,Freq,Annotation,Gene,Product,position2,reads..cov2,annotation2,gene2,product2
+245,RA,NZ_CP012004,2963712,CA,G460V(GGTGTT),ACX60_RS14040,elongation factor G,,,,,,,,,,,,,,,
+246,RA,NZ_CP012004,2963712,CA,G460V(GGTGTT),ACX60_RS14040,elongation factor G,,,,,,,,,,,,,,,
+246,NJE,,,,,,,NZ_CP012004,"""= 3394411""",44 (0.460),28 (0.300),12/270,2.1,39.50%,coding (1340/2295 nt),ACX60_RS16050,phosphoenolpyruvate‑‑protein phosphotransferase,"""3394439 =""",42 (0.440),coding (1368/2295 nt),ACX60_RS16050,phosphoenolpyruvate‑‑protein phosphotransferase
+246,NJE,,,,,,,NZ_CP012005,"""95904 =""",74 (0.860),68 (1.050)+33 bp,22/206,0.3,58.00%,intergenic (‑21/‑72),ACX60_RS18730/ACX60_RS19365,sulfonamide‑resistant dihydropteroate synthase Sul2/IS4 family transposase,"""131501 =""",56 (0.650),coding (134/192 nt),ACX60_RS18925,hypothetical protein
+247,RA,NZ_CP012004,2963712,CA,G460V(GGTGTT),ACX60_RS14040,elongation factor G,,,,,,,,,,,,,,,
+247,NJE,,,,,,,NZ_CP012004,"""3394859 =""",2 (0.020),96 (1.310),33/270,0.1,75.00%,coding (1788/2295 nt),ACX60_RS16050,phosphoenolpyruvate‑‑protein phosphotransferase,"""95907 =""",62 (0.970),intergenic (‑24/‑69),ACX60_RS18730/ACX60_RS19365,sulfonamide‑resistant dihydropteroate synthase Sul2/IS4 family transposase
+247,NJE,,,,,,,NZ_CP012004,"""= 3394871""",2 (0.020),58 (0.790),23/270,0.3,64.50%,coding (1800/2295 nt),ACX60_RS16050,phosphoenolpyruvate‑‑protein phosphotransferase,"""= 97082""",62 (0.970),intergenic (+16/‑14),ACX60_RS19365/ACX60_RS19370,IS4 family transposase/transcriptional regulator
+247,NJE,,,,,,,NZ_CP012005,"""95904 =""",60 (0.930),72 (1.470)+33 bp,25/208,0.1,60.90%,intergenic (‑21/‑72),ACX60_RS18730/ACX60_RS19365,sulfonamide‑resistant dihydropteroate synthase Sul2/IS4 family transposase,"""131501 =""",62 (0.960),coding (134/192 nt),ACX60_RS18925,hypothetical protein
+248,RA,NZ_CP012004,2964915,CT,R59H(CGTCAT),ACX60_RS14040,elongation factor G,,,,,,,,,,,,,,,
+249,RA,NZ_CP012004,1442000,CT,V53V(GTGGTA),ACX60_RS06735,ubiquinol oxidase subunit II,,,,,,,,,,,,,,,
+249,RA,NZ_CP012004,2619685,GT,A173D(GCCGAC),ACX60_RS12470,hypothetical protein,,,,,,,,,,,,,,,
+249,NJE,,,,,,,NZ_CP012004,"""3394813 =""",8 (0.100),88 (1.430),29/272,0,73.30%,coding (1742/2295 nt),ACX60_RS16050,phosphoenolpyruvate‑‑protein phosphotransferase,"""= 97084""",56 (1.200),intergenic (+18/‑12),ACX60_RS19365/ACX60_RS19370,IS4 family transposase/transcriptional regulator
+249,NJE,,,,,,,NZ_CP012004,"""= 3394821""",2 (0.030),104 (1.680),37/272,0,83.90%,coding (1750/2295 nt),ACX60_RS16050,phosphoenolpyruvate‑‑protein phosphotransferase,"""95905 =""",38 (0.810),intergenic (‑22/‑71),ACX60_RS18730/ACX60_RS19365,sulfonamide‑resistant dihydropteroate synthase Sul2/IS4 family transposase
+250,RA,NZ_CP012004,875732,CT,R62C(CGTTGT),ACX60_RS04175,glycerol3phosphate dehydrogenase,,,,,,,,,,,,,,,
+250,RA,NZ_CP012004,2963486,GT,F535L(TTCTTA),ACX60_RS14040,elongation factor G,,,,,,,,,,,,,,,
+250,RA,NZ_CP012004,3393658,2bp,coding(587588/2295nt),ACX60_RS16050,phosphoenolpyruvateprotein phosphotransferase,,,,,,,,,,,,,,,

@@ -1,0 +1,71 @@
+Sample,Population,Model
+1,"Day 6, Pop 1, Plank, No AB",BEAD
+2,"Day 6, Pop 2, Plank, No AB",BEAD
+3,"Day 6, Pop 3, Plank, No AB",BEAD
+4,"Day 12, Pop 1, Plank, No AB",BEAD
+5,"Day 12, Pop 2, Plank, No AB",BEAD
+6,"Day 12, Pop 3, Plank, No AB",BEAD
+7,"Day 3, Pop 1, Plank, Inc",BEAD
+8,"Day 3, Pop 2, Plank, Inc",BEAD
+9,"Day 3, Pop 3, Plank, Inc",BEAD
+10,"Day 4, Pop 1, Plank, Inc",BEAD
+11,"Day 4, Pop 2, Plank, Inc",BEAD
+12,"Day 4, Pop 3, Plank, Inc",BEAD
+13,"Day 6, Pop 1, Plank, Inc",BEAD
+14,"Day 6, Pop 2, Plank, Inc",BEAD
+15,"Day 6, Pop 3, Plank, Inc",BEAD
+16,"Day 7, Pop 1, Plank, Inc",BEAD
+17,"Day 7, Pop 2, Plank, Inc",BEAD
+18,"Day 7, Pop 3, Plank, Inc",BEAD
+19,"Day 9, Pop 1, Plank, Inc",BEAD
+20,"Day 9, Pop 2, Plank, Inc",BEAD
+21,"Day 9, Pop 3, Plank, Inc",BEAD
+22,"Day 10, Pop 1, Plank, Inc",BEAD
+23,"Day 10, Pop 2, Plank, Inc",BEAD
+24,"Day 10, Pop 3, Plank, Inc",BEAD
+25,"Day 12, Pop 1, Plank, Inc",BEAD
+26,"Day 12, Pop 2, Plank, Inc",BEAD
+27,"Day 12, Pop 3, Plank, Inc",BEAD
+28,"Day 12, Pop 4, Plank, Inc",BEAD
+29,"Day 12, Pop 5, Plank, Inc",BEAD
+30,"Day 6, Pop 1, Bio, No AB",BEAD
+31,"Day 6, Pop 2, Bio, No AB",BEAD
+32,"Day 6, Pop 3, Bio, No AB",BEAD
+33,"Day 12, Pop 1, Bio, No AB",BEAD
+34,"Day 12, Pop 2, Bio, No AB",BEAD
+35,"Day 12, Pop 3, Bio, No AB",BEAD
+916,"Day 3, Pop 1, Bio, Inc",BEAD
+36,"Day 3, Pop 2, Bio, Inc",BEAD
+37,"Day 3, Pop 3, Bio, Inc",BEAD
+38,"Day 4, Pop 1, Bio, Inc",BEAD
+39,"Day 4, Pop 2, Bio, Inc",BEAD
+938,"Day 4, Pop 3, Bio, Inc",BEAD
+41,"Day 6, Pop 1, Bio, Inc",BEAD
+957,"Day 6, Pop 2, Bio, Inc",BEAD
+43,"Day 6, Pop 3, Bio, Inc",BEAD
+44,"Day 7, Pop 1, Bio, Inc",BEAD
+45,"Day 7, Pop 2, Bio, Inc",BEAD
+978,"Day 7, Pop 3, Bio, Inc",BEAD
+46,"Day 9, Pop 1, Bio, Inc",BEAD
+47,"Day 9, Pop 2, Bio, Inc",BEAD
+48,"Day 9, Pop 3, Bio, Inc",BEAD
+49,"Day 10, Pop 1, Bio, Inc",BEAD
+50,"Day 10, Pop 2, Bio, Inc",BEAD
+51,"Day 10, Pop 3, Bio, Inc",BEAD
+52,"Day 12, Pop 1, Bio, Inc",BEAD
+53,"Day 12, Pop 2, Bio, Inc",BEAD
+54,"Day 12, Pop 3, Bio, Inc",BEAD
+55,"Day 12, Pop 4, Bio, Inc",BEAD
+56,"Day 12, Pop 5, Bio, Inc",BEAD
+57,"Day 12, Pop 1, Plank, No AB",TIP
+58,"Day 12, Pop 2, Plank, No AB",TIP
+59,"Day 12, Pop 3, Plank, No AB",TIP
+60,"Day 12, Pop 1, Plank, Inc",TIP
+61,"Day 12, Pop 2, Plank, Inc",TIP
+62,"Day 12, Pop 3, Plank, Inc",TIP
+63,"Day 12, Pop 1, Bio, No AB",TIP
+64,"Day 12, Pop 2, Bio, No AB",TIP
+65,"Day 12, Pop 3, Bio, No AB",TIP
+66,"Day 12, Pop 1, Bio, Inc",TIP
+67,"Day 12, Pop 2, Bio, Inc",TIP
+68,"Day 12, Pop 3, Bio, Inc",TIP

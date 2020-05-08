@@ -1,0 +1,16 @@
+Genome Name,PATRIC Genome ID,NCBI Reference Genome ID,Gene ,Product,Old RefSeq Locus Tag,New RefSeq Locus Tag,Start,End,NT Length,Strand,AA Length,Non-redundant protein accession number
+Pseudomonas aeruginosa UCBPP-PA14,208963.12,NC_008463,fusA1,Translation elongation factor G,PA14_08820,PA14_RS03565,755665,757785,2121,+,706,WP_003093741
+,,,ptsP,"Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated",PA14_04410,PA14_RS01795,392770,395049,2280,+,759,WP_003084404
+,,,cyoB,Cytochrome O ubiquinol oxidase subunit I ,PA14_47190,PA14_RS19185,4203575,4205551,1977,-,658,WP_003082705
+,,,cyoA,Cytochrome O ubiquinol oxidase subunit II ,PA14_47210,PA14_RS19190,4205558,4206553,996,-,331,WP_003086856
+Acinetobacter baumannii strain ATCC 17978-mff,470.1575,CP012004,fusA,Translation elongation factor G,ACX60_14045,ACX60_RS14040,2962952,2965090,2139,-,712,WP_005229047
+,,,ptsP,"Phosphocarrier protein kinase/phosphorylase, nitrogen regulation associated",ACX60_16055,ACX60_RS16050,3393072,3395366,2295,+,764,WP_005133238
+,,,cyoB,Cytochrome O ubiquinol oxidase subunit I ,ACX60_06730,ACX60_RS06730,1439111,1441102,1992,-,663,WP_002119744
+,,,cyoA,Cytochrome O ubiquinol oxidase subunit II ,ACX60_06735,ACX60_RS06735,1441106,1442158,1053,-,350,WP_005215377
+Escherichia coli str. K-12 substr. MG1655,511145.12,NC_000913,fusA,Translation elongation factor G,b3340,,3469422,3471536,2115,-,704,WP_000124700
+,,,cyoB,Cytochrome O ubiquinol oxidase subunit I ,b0431,,447874,449865,1992,-,663,WP_000467180
+,,,cyoA,Cytochrome O ubiquinol oxidase subunit II ,b0432,,449887,450774,888,-,295,WP_001239436
+Salmonella enterica serovar Typhimurium str. LT2,99287.12,NC_003197,fusA,Translation elongation factor G,STM3446,,3599558,3601672,2115,-,704,WP_000124693
+,,,cyoB,Cytochrome O ubiquinol oxidase subunit I ,STM0442,,495189,497180,1992,-,663,WP_000467158
+,,,cyoA,Cytochrome O ubiquinol oxidase subunit II ,STM0443,,497191,498120,930,-,309,WP_001239449
+Staphylococcus aureus NCTC 8325 strain ,93061.132,LS483365,fusA,Translation elongation factor G,NCTC8325_00491,,540862,542943,2082,+,693,WP_001788222 

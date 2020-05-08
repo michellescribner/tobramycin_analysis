@@ -1,0 +1,21 @@
+,,Freezer Stock Number,Sample,Evidence,Position,Mutation,Annotation,Gene,Description
+2069,"Day 7, Pop 1, Plank, Inc",966_1,breseq_73,RA,"757,702",CT,R680C(CGCTGC),fusA,elongation factor G
+2298,"Day 7, Pop 1, Plank, Inc",966_1,breseq_73,RA,"5,192,456",AC,V27G(GTCGGC),PA14_RS23780,DNAbinding response regulator
+2532,"Day 7, Pop 1, Plank, Inc",966_2,breseq_74,RA,"757,697",AT,Q678L(CAGCTG),fusA,elongation factor G
+2761,"Day 7, Pop 1, Plank, Inc",966_3,breseq_75,RA,"757,450",TC,F596L(TTCCTC),fusA,elongation factor G
+2765,"Day 7, Pop 1, Plank, Inc",966_4,breseq_76,RA,"757,702",CT,R680C(CGCTGC),fusA,elongation factor G
+2998,"Day 7, Pop 3, Plank, Inc",968_1,breseq_77,RA,"757,697",AT,Q678L(CAGCTG),fusA,elongation factor G
+3227,"Day 7, Pop 3, Plank, Inc",968_2,breseq_78,RA,"394,751",TA,V661E(GTGGAG),PA14_RS01795,phosphoenolpyruvateprotein phosphotransferase PtsP
+3232,"Day 7, Pop 3, Plank, Inc",968_2,breseq_78,RA,"757,030",AG,T456A(ACCGCC),fusA,elongation factor G
+3466,"Day 9, Pop 2, Plank, Inc",987_1,breseq_79,RA,"393,772",GT,E335*(GAGTAG),PA14_RS01795,phosphoenolpyruvateprotein phosphotransferase PtsP
+3693,"Day 9, Pop 2, Plank, Inc",987_1,breseq_79,RA,"757,702",CT,R680C(CGCTGC),fusA,elongation factor G
+3697,"Day 9, Pop 2, Plank, Inc",987_2,breseq_80,RA,"757,697",AT,Q678L(CAGCTG),fusA,elongation factor G
+3880,"Day 9, Pop 2, Plank, Inc",987_2,breseq_80,RA,"2,590,766",CT,W235*(TGGTGA),PA14_RS12205,NADHquinone oxidoreductase subunit H
+4047,"Day 9, Pop 2, Plank, Inc",987_3,breseq_81,RA,"393,891",1bp,coding(1122/2280nt),PA14_RS01795,phosphoenolpyruvateprotein phosphotransferase PtsP
+4092,"Day 9, Pop 2, Plank, Inc",987_3,breseq_81,RA,"757,675",AG,T671A(ACCGCC),fusA,elongation factor G
+4096,"Day 9, Pop 2, Plank, Inc",987_4,breseq_82,RA,"393,670",CT,R301C(CGCTGC),PA14_RS01795,phosphoenolpyruvateprotein phosphotransferase PtsP
+4321,"Day 9, Pop 2, Plank, Inc",987_4,breseq_82,RA,"757,697",AT,Q678L(CAGCTG),fusA,elongation factor G
+4552,"Day 9, Pop 2, Plank, Inc",987_5,breseq_83,RA,"393,772",GT,E335*(GAGTAG),PA14_RS01795,phosphoenolpyruvateprotein phosphotransferase PtsP
+4557,"Day 9, Pop 2, Plank, Inc",987_5,breseq_83,RA,"756,973",2bpGG,coding(13091310/2121nt),fusA,elongation factor G
+4788,"Day 9, Pop 2, Plank, Inc",987_6,breseq_84,RA,"393,772",GT,E335*(GAGTAG),PA14_RS01795,phosphoenolpyruvateprotein phosphotransferase PtsP
+4793,"Day 9, Pop 2, Plank, Inc",987_6,breseq_84,RA,"757,352",AT,Q563L(CAGCTG),fusA,elongation factor G

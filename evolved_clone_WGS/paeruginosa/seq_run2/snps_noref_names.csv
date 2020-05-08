@@ -1,0 +1,48 @@
+,Sample,Evidence,Position,Mutation,Annotation,Gene,Description
+3378,1017_1,RA,"757,439",AT,N592I(AACATC),fusA1,elongation factor G
+3410,1017_1,RA,"2,040,296",(G)109,coding(148/1017nt),orfN,glycosyl transferase
+2496,1017_2,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+2673,1017_2,RA,"5,637,531",GA,R283H(CGCCAC),pmrB,twocomponent sensor histidine kinase
+1657,1017_3,RA,"757,439",AT,N592I(AACATC),fusA1,elongation factor G
+5723,1017_4,RA,"757,439",AT,N592I(AACATC),fusA1,elongation factor G
+5757,1017_4,RA,"2,040,296",(G)109,coding(148/1017nt),orfN,glycosyl transferase
+5478,1017_5,RA,"393,891",1bp,coding(1122/2280nt),ptsP,phosphoenolpyruvateprotein phosphotransferase PtsP
+5482,1017_5,RA,"757,045",AG,M461V(ATGGTG),fusA1,elongation factor G
+5658,1017_5,RA,"5,193,501",GA,P110L(CCGCTG),PA14_58320,twocomponent sensor histidine kinase
+4532,1021_1,RA,"741,246",GA,intergenic(+20/65),PA14_RS03500/tuf,tRNAThr/elongation factor Tu
+4714,1021_1,RA,"5,432,293",GA,E1153K(GAGAAG),morA,GGDEF domaincontaining protein
+959,1027_1,RA,"757,439",AT,N592I(AACATC),fusA1,elongation factor G
+990,1027_1,RA,"2,040,296",(G)109,coding(148/1017nt),orfN,glycosyl transferase
+19,1027_2,RA,"393,891",1bp,coding(1122/2280nt),ptsP,phosphoenolpyruvateprotein phosphotransferase PtsP
+23,1027_2,RA,"757,045",AG,M461V(ATGGTG),fusA1,elongation factor G
+199,1027_2,RA,"5,193,501",GA,P110L(CCGCTG),PA14_58320,twocomponent sensor histidine kinase
+717,1027_3,RA,"393,891",1bp,coding(1122/2280nt),ptsP,phosphoenolpyruvateprotein phosphotransferase PtsP
+722,1027_3,RA,"757,045",AG,M461V(ATGGTG),fusA1,elongation factor G
+897,1027_3,RA,"5,193,501",GA,P110L(CCGCTG),PA14_58320,twocomponent sensor histidine kinase
+2064,1027_4,RA,"2,040,600",AG,N151S(AACAGC),orfN,glycosyl transferase
+2217,1027_4,RA,"5,637,327",TC,V215A(GTGGCG),pmrB,twocomponent sensor histidine kinase
+2745,10274_5,RA,"2,040,600",AG,N151S(AACAGC),orfN,glycosyl transferase
+2870,10274_5,RA,"5,637,327",TC,V215A(GTGGCG),pmrB,twocomponent sensor histidine kinase
+5005,917_1,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+1196,917_2,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+3843,917_3,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+5956,917_4,JC,"394,615",42bp,coding(18461887/2280nt),ptsP,phosphoenolpyruvateprotein phosphotransferase PtsP
+3155,917_5,MCJC,"394,065",14bp,coding(12961309/2280nt),ptsP,phosphoenolpyruvateprotein phosphotransferase PtsP
+3606,936_1,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+4293,936_2,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+5246,936_3,RA,"756,051",GT,Q129H(CAGCAT),fusA1,elongation factor G
+6676,936_4,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+2272,947_1,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+1792,947_2,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+6199,947_3,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+6435,947_4,RA,"361,504",TC,L187L(TTGCTG),PA14_RS01630,AraC family transcriptional regulator
+6439,947_4,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+4078,947_5,RA,"757,697",AT,Q678L(CAGCTG),fusA1,elongation factor G
+262,997_1,RA,"757,439",AT,N592I(AACATC),fusA1,elongation factor G
+2919,997_2,RA,"757,439",AT,N592I(AACATC),fusA1,elongation factor G
+2953,997_2,RA,"2,040,296",(G)109,coding(148/1017nt),orfN,glycosyl transferase
+501,997_3,RA,"757,439",AT,N592I(AACATC),fusA1,elongation factor G
+1436,997_4,RA,"757,439",AT,N592I(AACATC),fusA1,elongation factor G
+1470,997_4,RA,"2,040,296",(G)109,coding(148/1017nt),orfN,glycosyl transferase
+4769,997_5,RA,"757,439",AT,N592I(AACATC),fusA1,elongation factor G
+4803,997_5,RA,"2,040,296",(G)109,coding(148/1017nt),orfN,glycosyl transferase

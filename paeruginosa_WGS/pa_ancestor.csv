@@ -1,0 +1,284 @@
+Sample,Evidence,Position,Mutation,Frequency,Annotation,Gene,Description
+78,RA,"41,753",TC,100%,S207S(AGTAGC),PA14_RS00205,ShlB/FhaC/HecB family hemolysin secretion/activation protein
+78,RA,"41,756",GA,100%,R208R(CGGCGA),PA14_RS00205,ShlB/FhaC/HecB family hemolysin secretion/activation protein
+78,RA,"72,440",TC,100%,K132E(AAGGAG),PA14_RS00315,hypothetical protein
+78,RA,"96,307",AC,100%,pseudogene(1103/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,350",TC,100%,pseudogene(1060/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,353",TG,100%,pseudogene(1057/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,356",AC,100%,pseudogene(1054/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,360",TC,100%,pseudogene(1050/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,391",AG,100%,pseudogene(1019/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,393",AC,100%,pseudogene(1017/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,401",GC,100%,pseudogene(1009/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,406",TG,100%,pseudogene(1004/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,408",GC,100%,pseudogene(1002/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"96,452:1",#NAME?,100%,pseudogene(958/1499nt),PA14_RS00410,FHA domaincontaining protein
+78,RA,"151,966",AG,100%,intergenic(743/415),guaD/PA14_RS00690,guanine deaminase/ABC transporter ATPbinding protein
+78,RA,"155,993",1bp,100%,coding(922/981nt),PA14_RS00700,ABC transporter permease
+78,RA,"208,430",TG,100%,intergenic(36/+52),PA14_RS00935/PA14_RS00940,arylsulfatase/sulfonate ABC transporter ATPbinding protein
+78,RA,"208,433",GC,100%,intergenic(39/+49),PA14_RS00935/PA14_RS00940,arylsulfatase/sulfonate ABC transporter ATPbinding protein
+78,RA,"480,880",TC,100%,A204A(GCAGCG),PA14_RS02220,16S rRNA (uracil(1498)N(3))methyltransferase
+78,RA,"480,915",TC,100%,K193E(AAAGAA),PA14_RS02220,16S rRNA (uracil(1498)N(3))methyltransferase
+78,RA,"559,051:1",#NAME?,100%,intergenic(+619/+70),PA14_RS02545/rarD,hypothetical protein/EamA family transporter
+78,RA,"732,660",GA,100%,intergenic(+114/426),PA14_RS03445/PA14_RS03450,TyrosinetRNA ligase 2/16S ribosomal RNA
+78,RA,"791,848",CG,100%,P610A(CCCGCC),PA14_RS03770,nonribosomal peptide synthetase
+78,RA,"791,862",3bpGCT,100%,coding(18421844/5430nt),PA14_RS03770,nonribosomal peptide synthetase
+78,RA,"791,890",AG,100%,N624D(AACGAC),PA14_RS03770,nonribosomal peptide synthetase
+78,RA,"888,038",2bpTG,100%,coding(15621563/1878nt),PA14_RS04165,sigma54dependent Fis family transcriptional regulator
+78,RA,"888,497",AC,100%,K25T(AAGACG),PA14_RS04170,lysine transporter LysE
+78,RA,"927,917",TC,100%,I56T(ATCACC),PA14_RS04340,ATPase
+78,RA,"945,885",1bp,100%,intergenic(252/69),PA14_RS04400/PA14_RS04405,"2,4'dihydroxyacetophenone dioxygenase/AraC family transcriptional regulator"
+78,RA,"945,897",(C)54,100%,intergenic(264/57),PA14_RS04400/PA14_RS04405,"2,4'dihydroxyacetophenone dioxygenase/AraC family transcriptional regulator"
+78,RA,"966,217",TC,100%,intergenic(+77/568),PA14_RS04485/PA14_RS04490,type 1 fimbrial protein/DNAbinding response regulator
+78,RA,"982,940",AG,100%,F293F(TTTTTC),PA14_RS04570,ABC transporter permease
+78,RA,"1,082,923",1bp,100%,intergenic(371/66),PA14_RS05085/hrpB,hypothetical protein/ATPdependent helicase HrpB
+78,RA,"1,082,944",GC,100%,intergenic(392/45),PA14_RS05085/hrpB,hypothetical protein/ATPdependent helicase HrpB
+78,RA,"1,082,958",AG,100%,intergenic(406/31),PA14_RS05085/hrpB,hypothetical protein/ATPdependent helicase HrpB
+78,RA,"1,110,204",AC,100%,intergenic(+70/37),PA14_RS05215/PA14_RS05220,taurine ABC transporter permease/taurine dioxygenase
+78,RA,"1,128,156",3bpGCG,100%,intergenic(+17/42),PA14_RS05280/PA14_RS05285,DUF1302 domaincontaining protein/hypothetical protein
+78,RA,"1,128,160",NA,100%,intergenic(+21/40),PA14_RS05280/PA14_RS05285,DUF1302 domaincontaining protein/hypothetical protein
+78,RA,"1,128,162",NC,100%,intergenic(+23/38),PA14_RS05280/PA14_RS05285,DUF1302 domaincontaining protein/hypothetical protein
+78,RA,"1,128,165",NG,100%,intergenic(+26/35),PA14_RS05280/PA14_RS05285,DUF1302 domaincontaining protein/hypothetical protein
+78,RA,"1,144,646",CG,100%,intergenic(+239/13),PA14_RS05355/PA14_RS05360,SCP2 domaincontaining protein/extracelullar DNA degradation protein EddA
+78,RA,"1,239,152",NC,100%,intergenic(+150/43),PA14_RS05795/lptF,alpha/beta hydrolase/LPS export ABC transporter permease LptF
+78,RA,"1,239,163",(C)54,100%,intergenic(+161/32),PA14_RS05795/lptF,alpha/beta hydrolase/LPS export ABC transporter permease LptF
+78,RA,"1,271,763",1bp,100%,intergenic(+20/+69),PA14_RS05965/PA14_RS05970,hypothetical protein/oxidoreductase
+78,RA,"1,280,717",(C)65,100%,intergenic(46/+41),PA14_RS06005/PA14_RS06010,DUF4345 domaincontaining protein/hypothetical protein
+78,RA,"1,356,548",GC,100%,R69G(CGTGGT),PA14_RS06375,MFS transporter
+78,RA,"1,375,947",AG,100%,intergenic(+18/38),PA14_RS06470/PA14_RS06475,phage shock protein A/hypothetical protein
+78,RA,"1,441,164",TC,100%,I804I(ATTATC),PA14_RS06745,AcrB/AcrD/AcrF family protein
+78,RA,"1,441,862",2bp,100%,intergenic(+32/+10),PA14_RS06745/PA14_RS06750,AcrB/AcrD/AcrF family protein/hypothetical protein
+78,RA,"1,547,959",CT,100%,L93L(CTGTTG),PA14_RS07235,isomerase
+78,RA,"1,558,205",AG,100%,Q390Q(CAACAG),prpE,propionylCoA synthetase
+78,RA,"1,647,551",1bp,100%,intergenic(+11/91),PA14_RS07640/PA14_RS07645,MRP family ATPbinding protein/deoxycytidine triphosphate deaminase
+78,RA,"1,880,872",CG,100%,A502G(GCCGGC),PA14_RS08740,ATPdependent DNA helicase
+78,RA,"1,924,461",GT,100%,intergenic(329/+1661),PA14_RS08940/PA14_RS08950,hypothetical protein/hypothetical protein
+78,RA,"1,970,460",CG,100%,V54L(GTCCTC),PA14_RS09180,hypothetical protein
+78,RA,"2,001,809",TG,100%,D65E(GATGAG),pgl,6phosphogluconolactonase
+78,RA,"2,001,811",AC,100%,Q66P(CAGCCG),pgl,6phosphogluconolactonase
+78,RA,"2,001,813",GC,100%,V67L(GTGCTG),pgl,6phosphogluconolactonase
+78,RA,"2,149,425",TC,100%,Q549Q(CAACAG),PA14_RS09965,peptidase
+78,RA,"2,155,075",1bp,100%,intergenic(123/+54),PA14_RS09990/PA14_RS30310,ribosome modulation factor/hypothetical protein
+78,RA,"2,156,071",CG,100%,pseudogene(658/2179nt),PA14_RS09995,23S rRNA (guanine(2445)N(2))/(guanine(2069)N(7)) methyltransferase
+78,RA,"2,156,146",CA,100%,pseudogene(733/2179nt),PA14_RS09995,23S rRNA (guanine(2445)N(2))/(guanine(2069)N(7)) methyltransferase
+78,RA,"2,156,197",1bp,100%,pseudogene(784/2179nt),PA14_RS09995,23S rRNA (guanine(2445)N(2))/(guanine(2069)N(7)) methyltransferase
+78,RA,"2,263,699",1bp,100%,intergenic(449/100),PA14_RS10520/cobW,cobalt transporter/cobalamin biosynthesis protein CobW
+78,RA,"2,318,606",AG,100%,E190E(GAAGAG),PA14_RS10780,RNA polymerase sigma factor
+78,RA,"2,341,570",1bp,100%,pseudogene(530/957nt),PA14_RS10890,DUF58 domaincontaining protein
+78,RA,"2,341,611",1bp,100%,pseudogene(571/957nt),PA14_RS10890,DUF58 domaincontaining protein
+78,RA,"2,341,704",1bp,100%,pseudogene(664/957nt),PA14_RS10890,DUF58 domaincontaining protein
+78,RA,"2,354,149",AG,100%,intergenic(34/+17),PA14_RS10945/PA14_RS10950,lipase chaperone/lactonizing lipase
+78,RA,"2,354,163",(G)54,100%,intergenic(48/+3),PA14_RS10945/PA14_RS10950,lipase chaperone/lactonizing lipase
+78,RA,"2,362,330",AC,100%,pseudogene(139/252nt),PA14_RS10995,hypothetical protein
+78,RA,"2,362,363",GC,100%,pseudogene(106/252nt),PA14_RS10995,hypothetical protein
+78,RA,"2,407,435",CG,100%,T115T(ACCACG),PA14_RS11255,glutathione Stransferase
+78,RA,"2,407,463",AG,100%,K125E(AAGGAG),PA14_RS11255,glutathione Stransferase
+78,RA,"2,465,074",(G)54,100%,intergenic(+73/+253),PA14_RS11645/PA14_RS11650,hypothetical protein/hypothetical protein
+78,RA,"2,545,609",TC,100%,I509I(ATTATC),PA14_RS11985,type VI secretion protein ImpA
+78,RA,"2,545,615",TC,100%,V511V(GTTGTC),PA14_RS11985,type VI secretion protein ImpA
+78,RA,"2,545,633",2bpCT,100%,coding(15511552/2070nt),PA14_RS11985,type VI secretion protein ImpA
+78,RA,"2,545,663",TC,100%,I527I(ATTATC),PA14_RS11985,type VI secretion protein ImpA
+78,RA,"2,589,402",CT,100%,intergenic(45/+1),PA14_RS12190/PA14_RS12195,NADHquinone oxidoreductase subunit K/NADHquinone oxidoreductase subunit J
+78,RA,"2,594,570",(G)65,100%,pseudogene(1096/1350nt),PA14_RS12215,NADHquinone oxidoreductase subunit F
+78,RA,"2,594,625",1bp,100%,pseudogene(1041/1350nt),PA14_RS12215,NADHquinone oxidoreductase subunit F
+78,RA,"2,594,659",1bp,100%,pseudogene(1007/1350nt),PA14_RS12215,NADHquinone oxidoreductase subunit F
+78,RA,"2,651,339",TC,100%,F68L(TTCCTC),PA14_RS12480,MFS transporter
+78,RA,"2,651,357",AG,100%,N74D(AACGAC),PA14_RS12480,MFS transporter
+78,RA,"2,707,727",NG,100%,?75P(CNTCCT),PA14_RS12740,hypothetical protein
+78,RA,"2,730,678",CT,100%,intergenic(+16/+99),PA14_RS12860/PA14_RS12865,hypothetical protein/methylaccepting chemotaxis protein
+78,RA,"2,730,681",2bpCG,100%,intergenic(+19/+95),PA14_RS12860/PA14_RS12865,hypothetical protein/methylaccepting chemotaxis protein
+78,RA,"2,762,006",AG,100%,K119E(AAGGAG),PA14_RS12995,1acylsnglycerol3phosphate acyltransferase
+78,RA,"2,762,024",AG,100%,N125D(AACGAC),PA14_RS12995,1acylsnglycerol3phosphate acyltransferase
+78,RA,"2,762,027",AG,100%,N126D(AACGAC),PA14_RS12995,1acylsnglycerol3phosphate acyltransferase
+78,RA,"2,762,030",AG,100%,K127E(AAGGAG),PA14_RS12995,1acylsnglycerol3phosphate acyltransferase
+78,RA,"2,787,777",CG,100%,pseudogene(921/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,787,784",TG,100%,pseudogene(928/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,787,829",2bpAG,100%,pseudogene(973974/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,787,861",3bpGTG,100%,pseudogene(10051007/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,787,867",TA,100%,pseudogene(1011/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,787,871",1bp,100%,pseudogene(1015/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,787,873",AC,100%,pseudogene(1017/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,787,877",CG,100%,pseudogene(1021/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,787,882:1",#NAME?,100%,pseudogene(1026/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,787,895",1bp,100%,pseudogene(1039/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,RA,"2,807,266",GC,100%,V137L(GTGCTG),PA14_RS13175,kinase
+78,RA,"2,840,442",TC,100%,intergenic(+42/47),PA14_RS13335/PA14_RS13340,transcriptional regulator/ECF sigma factor FoxI
+78,RA,"2,840,444",TC,100%,intergenic(+44/45),PA14_RS13335/PA14_RS13340,transcriptional regulator/ECF sigma factor FoxI
+78,RA,"2,885,933",GC,100%,G71G(GGGGGC),gcvH,glycine cleavage system protein H
+78,RA,"2,955,357",AG,100%,L314L(TTGCTG),PA14_RS13700,PepSY domaincontaining protein
+78,RA,"2,955,433",AG,100%,A288A(GCTGCC),PA14_RS13700,PepSY domaincontaining protein
+78,RA,"2,955,468",AG,100%,L277L(TTGCTG),PA14_RS13700,PepSY domaincontaining protein
+78,RA,"2,985,345",AG,100%,K2233E(AAAGAA),PA14_RS13715,nonribosomal peptide synthetase
+78,RA,"3,051,401",TC,100%,N373D(AACGAC),PA14_RS13990,SfnB family sulfur acquisition oxidoreductase
+78,RA,"3,051,413",TC,100%,K369E(AAGGAG),PA14_RS13990,SfnB family sulfur acquisition oxidoreductase
+78,RA,"3,051,443",TC,100%,K359E(AAGGAG),PA14_RS13990,SfnB family sulfur acquisition oxidoreductase
+78,RA,"3,114,336",AG,100%,P33P(CCTCCC),PA14_RS30495,hypothetical protein
+78,RA,"3,150,987",1bp,100%,pseudogene(46/280nt),PA14_RS30500,hypothetical protein
+78,RA,"3,198,146",1bp,100%,pseudogene(230/325nt),PA14_RS30520,DUF485 domaincontaining protein
+78,RA,"3,198,441",TG,100%,pseudogene(1641/1650nt),PA14_RS14615,acylCoA synthetase
+78,RA,"3,281,477",GC,100%,intergenic(37/+44),PA14_RS14980/PA14_RS14985,catalase HPII/hypothetical protein
+78,RA,"3,356,495",GC,100%,P68A(CCCGCC),PA14_RS30570,hypothetical protein
+78,RA,"3,373,667",GC,100%,V352V(GTCGTG),PA14_RS15385,class V aminotransferase
+78,RA,"3,374,601",AG,100%,F41S(TTCTCC),PA14_RS15385,class V aminotransferase
+78,RA,"3,387,854",AC,100%,I38L(ATCCTC),cynS,cyanate hydratase
+78,RA,"3,387,865",AC,100%,T41T(ACAACC),cynS,cyanate hydratase
+78,RA,"3,387,868",AC,100%,L42F(TTATTC),cynS,cyanate hydratase
+78,RA,"3,387,881",AC,100%,M47L(ATGCTG),cynS,cyanate hydratase
+78,RA,"3,387,884",TC,100%,F48L(TTCCTC),cynS,cyanate hydratase
+78,RA,"3,387,941",AC,100%,M67L(ATGCTG),cynS,cyanate hydratase
+78,RA,"3,390,474",1bp,100%,coding(440/465nt),PA14_RS15450,hypothetical protein
+78,RA,"3,390,485",1bp,100%,coding(451/465nt),PA14_RS15450,hypothetical protein
+78,RA,"3,390,498",AC,100%,*155S(TAGTCG),PA14_RS15450,hypothetical protein
+78,RA,"3,423,281",AG,100%,K130K(AAAAAG),PA14_RS15610,multidrug efflux RND transporter permease subunit
+78,RA,"3,423,414",CG,100%,Q175E(CAGGAG),PA14_RS15610,multidrug efflux RND transporter permease subunit
+78,RA,"3,424,152",CG,100%,Q421E(CAAGAG),PA14_RS15610,multidrug efflux RND transporter permease subunit
+78,RA,"3,424,154",AG,100%,Q421E(CAAGAG),PA14_RS15610,multidrug efflux RND transporter permease subunit
+78,RA,"3,424,176",AG,100%,T429A(ACCGCC),PA14_RS15610,multidrug efflux RND transporter permease subunit
+78,RA,"3,424,199",AG,100%,Q436Q(CAACAG),PA14_RS15610,multidrug efflux RND transporter permease subunit
+78,RA,"3,426,133",1bp,100%,pseudogene(105/220nt),PA14_RS30585,transporter
+78,RA,"3,443,292",CG,100%,P459A(CCCGCC),PA14_RS15680,transporter
+78,RA,"3,489,979",(G)54,100%,pseudogene(154/718nt),PA14_RS15905,coldshock protein
+78,RA,"3,515,863",TC,100%,intergenic(+617/+267),PA14_RS16005/PA14_RS16010,hypothetical protein/hypothetical protein
+78,RA,"3,543,662",AG,100%,T494A(ACGGCG),PA14_RS16110,PucR family transcriptional regulator
+78,RA,"3,566,665",1bp,100%,pseudogene(1016/1275nt),PA14_RS16215,hypothetical protein
+78,RA,"3,566,716",AG,100%,pseudogene(1067/1275nt),PA14_RS16215,hypothetical protein
+78,RA,"3,566,730",AG,100%,pseudogene(1081/1275nt),PA14_RS16215,hypothetical protein
+78,RA,"3,566,749",AG,100%,pseudogene(1100/1275nt),PA14_RS16215,hypothetical protein
+78,RA,"3,566,751",AG,100%,pseudogene(1102/1275nt),PA14_RS16215,hypothetical protein
+78,RA,"3,566,769",AG,100%,pseudogene(1120/1275nt),PA14_RS16215,hypothetical protein
+78,RA,"3,566,788",AG,100%,pseudogene(1139/1275nt),PA14_RS16215,hypothetical protein
+78,RA,"3,566,823:1",#NAME?,100%,pseudogene(1174/1275nt),PA14_RS16215,hypothetical protein
+78,RA,"3,644,364",1bp,100%,intergenic(115/120),PA14_RS16555/PA14_RS16560,protease/histidine phosphatase family protein
+78,RA,"3,662,614",TC,100%,F10F(TTTTTC),gloB,hydroxyacylglutathione hydrolase
+78,RA,"3,670,384",AG,100%,Q128Q(CAACAG),PA14_RS16675,ABC transporter permease
+78,RA,"3,670,537",1bp,100%,coding(537/1020nt),PA14_RS16675,ABC transporter permease
+78,RA,"3,670,543:1",#NAME?,100%,coding(543/1020nt),PA14_RS16675,ABC transporter permease
+78,RA,"3,673,519",NC,100%,intergenic(+68/+30),PA14_RS16685/PA14_RS16690,enoylACP reductase/peptidylprolyl cistrans isomerase
+78,RA,"3,673,524",AG,100%,intergenic(+73/+25),PA14_RS16685/PA14_RS16690,enoylACP reductase/peptidylprolyl cistrans isomerase
+78,RA,"3,673,534",3bpCTC,100%,intergenic(+83/+13),PA14_RS16685/PA14_RS16690,enoylACP reductase/peptidylprolyl cistrans isomerase
+78,RA,"3,711,749",TC,100%,L37L(TTGCTG),cobA,uroporphyrinogen III methyltransferase
+78,RA,"3,711,791",GC,100%,V51L(GTGCTG),cobA,uroporphyrinogen III methyltransferase
+78,RA,"3,769,180",CG,100%,A44A(GCGGCC),PA14_RS17140,type III secretion system protein
+78,RA,"3,879,553",AG,100%,F52L(TTCCTC),PA14_RS17695,LysE family translocator
+78,RA,"3,909,637",(G)54,100%,intergenic(133/+14),PA14_RS17840/brnQ,membrane protein/branchedchain amino acid transport system II carrier protein
+78,RA,"3,933,352",CG,100%,P346P(CCCCCG),PA14_RS17955,MFS transporter
+78,RA,"4,167,196",1bp,100%,intergenic(+41/131),PA14_RS19010/PA14_RS19015,VOC family protein/MFS transporter
+78,RA,"4,407,236",AG,100%,intergenic(+107/205),PA14_RS20115/PA14_RS20120,hypothetical protein/exotoxin A
+78,RA,"4,565,005",CG,100%,G319A(GGGGCG),PA14_RS20885,anthranilate synthase component I
+78,RA,"4,565,040",AG,100%,F307F(TTTTTC),PA14_RS20885,anthranilate synthase component I
+78,RA,"4,565,093",CG,100%,G290R(GGCCGC),PA14_RS20885,anthranilate synthase component I
+78,RA,"4,659,805",AG,100%,intergenic(+45/+54),PA14_RS21390/PA14_RS21395,transcriptional regulator/tRNAArg
+78,RA,"4,659,822",AG,100%,intergenic(+62/+37),PA14_RS21390/PA14_RS21395,transcriptional regulator/tRNAArg
+78,RA,"4,659,831",1bp,100%,intergenic(+71/+28),PA14_RS21390/PA14_RS21395,transcriptional regulator/tRNAArg
+78,RA,"4,700,807",1bp,100%,intergenic(+165/150),PA14_RS21585/PA14_RS21590,aromatic amino acid aminotransferase/DalanylDalanine endopeptidase
+78,RA,"4,707,658",GC,100%,A165A(GCGGCC),PA14_RS21625,oxidoreductase
+78,RA,"4,707,787",GC,100%,A208A(GCGGCC),PA14_RS21625,oxidoreductase
+78,RA,"4,760,743",AG,100%,L73P(CTTCCT),PA14_RS21850,HNH endonuclease
+78,RA,"4,819,717",(C)54,100%,intergenic(115/+55),PA14_RS22115/lepB,DUF4845 domaincontaining protein/signal peptidase I
+78,RA,"4,947,626",AG,100%,K147R(AAGAGG),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,631",AC,100%,M149L(ATGCTG),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,633:1",#NAME?,100%,coding(447/1416nt),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,636",CA,100%,R150R(CGCCGA),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,639",1bp,100%,coding(453/1416nt),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,641",2bpGC,100%,coding(455456/1416nt),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,645",GC,100%,Q153H(CAGCAC),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,649",2bpGG,100%,coding(463464/1416nt),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,652",AC,100%,I156L(ATTCTT),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,654",2bpGG,100%,coding(468469/1416nt),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,947,683",AG,100%,H166R(CACCGC),PA14_RS22670,DNA repair nucleotidyltransferase
+78,RA,"4,957,532",AG,100%,intergenic(354/+231),PA14_RS22700/PA14_RS29930,16S ribosomal RNA/hypothetical protein
+78,RA,"4,957,549",2bpAT,100%,intergenic(371/+213),PA14_RS22700/PA14_RS29930,16S ribosomal RNA/hypothetical protein
+78,RA,"4,978,469",1bp,100%,intergenic(+125/20),PA14_RS30870/PA14_RS22760,hypothetical protein/phosphate transporter
+78,RA,"4,997,786",TC,100%,K173E(AAGGAG),PA14_RS22840,hypothetical protein
+78,RA,"5,028,119",1bp,100%,intergenic(41/+96),PA14_RS22975/PA14_RS22980,divalent metal cation transporter/arylsulfate sulfotransferase
+78,RA,"5,028,197",1bp,100%,intergenic(119/+18),PA14_RS22975/PA14_RS22980,divalent metal cation transporter/arylsulfate sulfotransferase
+78,RA,"5,028,199",GC,100%,intergenic(121/+16),PA14_RS22975/PA14_RS22980,divalent metal cation transporter/arylsulfate sulfotransferase
+78,RA,"5,028,201",2bpCG,100%,intergenic(123/+13),PA14_RS22975/PA14_RS22980,divalent metal cation transporter/arylsulfate sulfotransferase
+78,RA,"5,103,224",2bpCA,100%,coding(818819/1185nt),PA14_RS23350,cell division protein FtsZ
+78,RA,"5,103,259",TG,100%,M262L(ATGCTG),PA14_RS23350,cell division protein FtsZ
+78,RA,"5,103,291",CT,100%,G251E(GGAGAA),PA14_RS23350,cell division protein FtsZ
+78,RA,"5,103,303",GT,100%,T247N(ACCAAC),PA14_RS23350,cell division protein FtsZ
+78,RA,"5,103,322",GT,100%,P241T(CCCACC),PA14_RS23350,cell division protein FtsZ
+78,MCJC,"5,131,729",34bp,100%,pseudogene(279312/1171nt),PA14_RS23490,acylCoA dehydrogenase
+78,RA,"5,198,405",TC,100%,intergenic(+31/+37),PA14_RS23800/PA14_RS23805,ABC transporter substratebinding protein/peptidase M24 family protein
+78,RA,"5,256,362",NC,100%,?82A(GNCGCC),PA14_RS24070,replicative DNA helicase
+78,RA,"5,256,376",TC,100%,F87L(TTCCTC),PA14_RS24070,replicative DNA helicase
+78,RA,"5,256,379",CG,100%,P88A(CCCGCC),PA14_RS24070,replicative DNA helicase
+78,RA,"5,256,382",AG,100%,N89D(AACGAC),PA14_RS24070,replicative DNA helicase
+78,RA,"5,315,218",1bp,100%,pseudogene(325/2614nt),PA14_RS24365,fimbrial protein
+78,RA,"5,358,513",1bp,100%,pseudogene(774/1285nt),PA14_RS24540,recombinase XerC
+78,RA,"5,395,470",1bp,100%,intergenic(103/+50),PA14_RS24730/PA14_RS24735,hypothetical protein/ATPdependent protease
+78,RA,"5,395,476",(G)54,100%,intergenic(109/+44),PA14_RS24730/PA14_RS24735,hypothetical protein/ATPdependent protease
+78,RA,"5,514,060",(G)54,100%,intergenic(+15/+136),PA14_RS25260/higA,tRNAMet/transcriptional regulator
+78,RA,"5,530,315",AG,100%,K229K(AAAAAG),PA14_RS25330,iron ABC transporter substratebinding protein
+78,RA,"5,648,548",AG,100%,intergenic(223/38),PA14_RS25880/PA14_RS25885,transcriptional regulator/acyl dehydratase
+78,RA,"5,648,573",AG,100%,intergenic(248/13),PA14_RS25880/PA14_RS25885,transcriptional regulator/acyl dehydratase
+78,RA,"5,757,525",GC,100%,Q27E(CAGGAG),PA14_RS26415,ferredoxin reductase
+78,RA,"5,757,527",GC,100%,P26R(CCCCGC),PA14_RS26415,ferredoxin reductase
+78,RA,"5,791,938",AG,100%,intergenic(+32/103),PA14_RS26570/PA14_RS26575,NAD(+) synthetase/lipase
+78,RA,"5,791,973",1bp,100%,intergenic(+67/68),PA14_RS26570/PA14_RS26575,NAD(+) synthetase/lipase
+78,RA,"5,792,010",AG,100%,intergenic(+104/31),PA14_RS26570/PA14_RS26575,NAD(+) synthetase/lipase
+78,RA,"5,809,296",3bp,100%,intergenic(182/+35),PA14_RS26645/PA14_RS26650,30S ribosomal protein S6/23S rRNA (guanosine(2251)2'O)methyltransferase RlmB
+78,RA,"5,809,309",CG,100%,intergenic(195/+24),PA14_RS26645/PA14_RS26650,30S ribosomal protein S6/23S rRNA (guanosine(2251)2'O)methyltransferase RlmB
+78,RA,"5,809,315",GC,100%,intergenic(201/+18),PA14_RS26645/PA14_RS26650,30S ribosomal protein S6/23S rRNA (guanosine(2251)2'O)methyltransferase RlmB
+78,RA,"5,809,318",GC,100%,intergenic(204/+15),PA14_RS26645/PA14_RS26650,30S ribosomal protein S6/23S rRNA (guanosine(2251)2'O)methyltransferase RlmB
+78,RA,"5,809,365",TC,100%,K239E(AAGGAG),PA14_RS26650,23S rRNA (guanosine(2251)2'O)methyltransferase RlmB
+78,RA,"5,866,730",TG,100%,A733A(GCAGCC),PA14_RS26890,hybrid sensor histidine kinase/response regulator
+78,RA,"5,905,079",AG,100%,F731F(TTTTTC),PA14_RS27055,bifunctional glutamine synthetase adenylyltransferase/deadenyltransferase
+78,RA,"5,931,597",1bp,100%,intergenic(16/162),PA14_RS27130/PA14_RS27135,transcriptional regulator/MFS transporter
+78,RA,"5,931,608",(T)65,100%,intergenic(27/151),PA14_RS27130/PA14_RS27135,transcriptional regulator/MFS transporter
+78,RA,"5,968,025",CG,100%,P426A(CCCGCC),PA14_RS27265,class II poly(R)hydroxyalkanoic acid synthase
+78,RA,"6,070,064",1bp,100%,pseudogene(533/1086nt),PA14_RS27735,dehydrogenase
+78,RA,"6,070,078",TC,100%,pseudogene(547/1086nt),PA14_RS27735,dehydrogenase
+78,RA,"6,070,084",TC,100%,pseudogene(553/1086nt),PA14_RS27735,dehydrogenase
+78,RA,"6,070,093",1bp,100%,pseudogene(562/1086nt),PA14_RS27735,dehydrogenase
+78,RA,"6,070,098",GC,100%,pseudogene(567/1086nt),PA14_RS27735,dehydrogenase
+78,RA,"6,070,100",TC,100%,pseudogene(569/1086nt),PA14_RS27735,dehydrogenase
+78,RA,"6,070,106",1bp,100%,pseudogene(575/1086nt),PA14_RS27735,dehydrogenase
+78,RA,"6,070,122",TC,100%,pseudogene(591/1086nt),PA14_RS27735,dehydrogenase
+78,RA,"6,076,066",GC,100%,R105R(CGGCGC),PA14_RS27775,methyltransferase
+78,RA,"6,102,509",(G)54,100%,intergenic(+35/+18),PA14_RS27885/PA14_RS27890,hydrolase/peptidoglycanbinding protein LysM
+78,RA,"6,128,635",1bp,100%,intergenic(+100/108),PA14_RS28015/gshA,hypothetical protein/glutamatecysteine ligase
+78,RA,"6,205,906",1bp,100%,intergenic(11/+186),PA14_RS28345/PA14_RS28350,type IV secretion protein Rhs/major exported protein
+78,RA,"6,250,873",1bp,100%,intergenic(+16/163),PA14_RS28555/PA14_RS28560,leucineresponsive regulatory protein/FADbinding oxidoreductase
+78,RA,"114,794",AG,41.50%,K505R(AAGAGG),PA14_RS00485,type VI secretion protein ImpA
+78,RA,"114,865",TC,36.10%,Y529H(TACCAC),PA14_RS00485,type VI secretion protein ImpA
+78,RA,"114,927",AC,10.10%,I549I(ATAATC),PA14_RS00485,type VI secretion protein ImpA
+78,RA,"432,615",1bp,6.20%,coding(341/1356nt),PA14_RS01985,signal recognition particledocking protein FtsY
+78,RA,"432,616",1bp,6.30%,coding(342/1356nt),PA14_RS01985,signal recognition particledocking protein FtsY
+78,RA,"432,617",1bp,6.30%,coding(343/1356nt),PA14_RS01985,signal recognition particledocking protein FtsY
+78,RA,"432,618",1bp,6.30%,coding(344/1356nt),PA14_RS01985,signal recognition particledocking protein FtsY
+78,RA,"432,619",1bp,6.30%,coding(345/1356nt),PA14_RS01985,signal recognition particledocking protein FtsY
+78,RA,"443,803",CA,7.00%,D130Y(GACTAC),rdgB,noncanonical purine NTP pyrophosphatase
+78,RA,"790,929",CT,5.30%,G303G(GGCGGT),PA14_RS03770,nonribosomal peptide synthetase
+78,RA,"1,235,208",AT,5.40%,L52Q(CTGCAG),PA14_RS05780,DNA polymerase III subunit chi
+78,JC,"2,293,680",33bp,6.00%,coding(560592/1638nt),PA14_RS10660,methylaccepting chemotaxis protein
+78,RA,"2,787,820:1",#NAME?,81.60%,pseudogene(964/3156nt),PA14_RS13085,CusA/CzcA family heavy metal efflux RND transporter
+78,JC,"3,095,107",30bp,21.80%,coding(445474/1089nt),PA14_RS14175,TauD/TfdA family dioxygenase
+78,RA,"3,591,084",CG,5.30%,A1877A(GCGGCC),PA14_RS16325,Iglike domain repeat protein
+78,RA,"3,593,631",AG,13.60%,N1028N(AATAAC),PA14_RS16325,Iglike domain repeat protein
+78,RA,"3,593,649",CG,8.30%,L1022L(CTGCTC),PA14_RS16325,Iglike domain repeat protein
+78,RA,"3,688,382",GT,6.80%,A250S(GCGTCG),PA14_RS16770,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+78,RA,"3,832,569",TA,22.80%,intergenic(+165/31),PA14_RS17495/PA14_RS17500,major exported protein/type IV secretion protein Rhs
+78,RA,"3,832,626",CT,13.40%,H9H(CACCAT),PA14_RS17500,type IV secretion protein Rhs
+78,RA,"4,196,618",1bp,5.80%,coding(949/1548nt),ilvA,PLPdependent threonine dehydratase
+78,RA,"4,590,213",TC,25.00%,T254T(ACTACC),PA14_RS21015,tyrosine recombinase XerC
+78,RA,"4,836,845",CT,5.30%,G88G(GGCGGT),PA14_RS22205,tripartite tricarboxylate transporter permease
+78,RA,"4,957,604",TC,11.20%,intergenic(426/+159),PA14_RS22700/PA14_RS29930,16S ribosomal RNA/hypothetical protein
+78,RA,"5,460,148",AG,5.20%,Y1569Y(TATTAC),PA14_RS25000,hypothetical protein
+78,RA,"5,460,211",AG,7.60%,G1548G(GGTGGC),PA14_RS25000,hypothetical protein
+78,RA,"5,460,217",AG,9.50%,Y1546Y(TATTAC),PA14_RS25000,hypothetical protein
+78,RA,"5,460,283",AG,20.70%,N1524N(AATAAC),PA14_RS25000,hypothetical protein
+78,RA,"5,460,364",AG,13.90%,Y1497Y(TATTAC),PA14_RS25000,hypothetical protein
+78,RA,"5,460,367",GA,7.80%,T1496T(ACCACT),PA14_RS25000,hypothetical protein
+78,RA,"5,460,934",AG,6.40%,N1307N(AATAAC),PA14_RS25000,hypothetical protein
+78,RA,"5,461,009",AG,27.70%,N1282N(AATAAC),PA14_RS25000,hypothetical protein
+78,RA,"5,461,039",AG,35.30%,G1272G(GGTGGC),PA14_RS25000,hypothetical protein
+78,RA,"5,461,135",AG,33.00%,D1240D(GATGAC),PA14_RS25000,hypothetical protein
+78,RA,"5,461,177",GA,7.60%,N1226N(AACAAT),PA14_RS25000,hypothetical protein
+78,RA,"5,461,777",GC,10.70%,V1026V(GTCGTG),PA14_RS25000,hypothetical protein
+78,RA,"5,476,643",CT,5.60%,R56H(CGCCAC),PA14_RS25060,CPXCG motifcontaining cysteinerich protein
+78,RA,"5,536,163",GA,51.50%,intergenic(12/+118),rrf/PA14_RS25360,5S ribosomal RNA/23S ribosomal RNA
+78,RA,"5,632,297",GA,6.60%,A645T(GCCACC),PA14_RS25800,FADbinding oxidoreductase
+78,RA,"5,647,350",GA,5.00%,R326W(CGGTGG),PA14_RS25880,transcriptional regulator
+78,RA,"6,206,069",TG,37.60%,intergenic(174/+23),PA14_RS28345/PA14_RS28350,type IV secretion protein Rhs/major exported protein
