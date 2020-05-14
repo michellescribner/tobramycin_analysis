@@ -165,11 +165,11 @@ muller(snps_b, 3, "Biofilm")
 
 #python /Users/mrs/muller_diagrams/mullerplot --input /Users/mrs/Documents/PA14_Tobi_M9/tob_paper/pa_muller/Biofilm_2_mullerinput.csv --output /Users/mrs/Documents/PA14_Tobi_M9/tob_paper/pa_muller/b2
 # In this population, the frequencies of orfN mutations reported in Breseq's RA evidence column were slightly different from the frequencies observed by manually viewing read pileups and by clicking "RA" in breseq html format.  
-# On days 10 and 12, the orfN mutation was reported in the RA column to be 100%, but clicking "RA" in breseq html format revealed that the mutation was actually at ~80-90% on these days.
+# On days 10 and 12, the orfN mutation was reported in the RA evidence column to be 100%, but clicking "RA" in breseq html format revealed that the mutation was actually at ~80-90% on these days.
 # The frequencies in the RA evidence column were biologically implausible, in that these mutations were reported to be at 100%, but other mutations known by clonal WGS to be on different genetic backgrounds were also present in the population at those timepoints. 
-# On the other hand, the frequencies manually calculated by examining read pileups were consistent with trajectories of other genotypes within the population, suggesting that these are more accurate. 
-# We therefore adjusted the mutation frequencies from 100% to ~90% for the muller plots as these likely better reflect the allele frequencies at these timepoints. The original frequencies may still be viewed in the allele frequency plots for transparency.
-# The orfN mutation for which these adjustments were required was a new junction in a repeat region, so while SNP calls appear to be reported at generally reliable frequencies for muller and allele frequency plots, junction calls were manually analyzed for accuracy of breseq's frequency prediction for use in muller plots.
+# On the other hand, the frequencies manually calculated by examining read pileups and shown when clicking "RA" in the breseq html format were consistent with trajectories of other genotypes within the population, suggesting that these are more accurate.
+# We therefore used the mutation frequencies determined by manually examining read pileups for the muller plots as these likely better reflect the allele frequencies at these timepoints. The frequencies reported in the RA evidence column by Breseq may still be viewed in the allele frequency plots.
+# The orfN mutation for which these adjustments were required was a new junction mutation in a repeat region. While SNP calls appear to be reported at generally reliable frequencies for muller and allele frequency plots, junction calls in repeat regions have been repeatedly observed to have this problem. Junction calls were therefore manually analyzed for accuracy of breseq's frequency prediction for use in muller plots.
 
 #python /Users/mrs/muller_diagrams/mullerplot --input /Users/mrs/Documents/PA14_Tobi_M9/tob_paper/pa_muller/Biofilm_3_mullerinput.csv --output /Users/mrs/Documents/PA14_Tobi_M9/tob_paper/pa_muller/b3
 
@@ -177,7 +177,7 @@ muller(snps_b, 3, "Biofilm")
 
 #python /Users/mrs/muller_diagrams/mullerplot --input /Users/mrs/Documents/PA14_Tobi_M9/tob_paper/pa_muller/Planktonic_2_mullerinput.csv --output /Users/mrs/Documents/PA14_Tobi_M9/tob_paper/pa_muller/p2
 # As in biofilm population 2, the frequencies of a new junction mutation in ptsP reported in Breseq's RA evidence columnn were slightly different from frequencies observed by manually viewing read pileups and by clicking "RA" in breseq html format. 
-# The mutation was called at 100% in the RA column on days 10 and 12, but clicking on the mutation revealed that it was actually ~80-90%. We adjusted these frequencies in these muller plots for the reasons indicated above. 
+# The mutation was called at 100% in the RA column on days 10 and 12, but clicking on the mutation revealed that it was actually ~80-90%. We used the frequencies determined by manually examining read pileups for these muller plots for the reasons indicated above.
 
 #python /Users/mrs/muller_diagrams/mullerplot --input /Users/mrs/Documents/PA14_Tobi_M9/tob_paper/pa_muller/Planktonic_3_mullerinput.csv --output /Users/mrs/Documents/PA14_Tobi_M9/tob_paper/pa_muller/p3 
 #ran by chris deitrick
