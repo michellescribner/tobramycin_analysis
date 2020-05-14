@@ -55,8 +55,7 @@ cast_df_25 <- subset(cast_df_sum, cast_df_sum$sum > 25)
 
 ######################## NJE #######################
 
-df_nje <- as.data.frame(read.csv("/Users/mrs/Documents/tob_paper_data/abaumannii_WGS/ab_tob_nje.csv"))
-df_nje$Sample <- as.character(df_nje$Sample)
+df_nje <- read.csv("/Users/mrs/Documents/tob_paper_data/abaumannii_WGS/ab_tob_nje.csv")
 
 # subset high quality mutations:
 #ACX60_RS15180 phosphocarrier protein HPr, ACX60_RS16050 phosphoenolpyruvateprotein phosphotransferase, ACX60_RS14610 NADHquinone oxidoreductase subunit B
@@ -64,7 +63,7 @@ df_nje <- df_nje[df_nje$Gene == "ACX60_RS15180" | df_nje$Gene == "ACX60_RS16050"
 
 #create a column for desc_gene_annot
 df_nje$desc_gene_annot <- paste(df_nje$Product, df_nje$Gene, df_nje$Annotation, sep="::") 
-df_nje <- (merge(df_nje,sample_key,by="Sample"))
+
 #remove '%' symbol
 df_nje$Freq <- gsub( "%", "", as.character(df_nje$Freq))
 df_nje$Freq <- as.numeric(as.character(df_nje$Freq))
@@ -109,8 +108,8 @@ cast_df_nje_25 <- subset(cast_df_nje_25, cast_df_nje_25$desc_gene_annot != "hypo
 cast_df_nje_25 <- subset(cast_df_nje_25, cast_df_nje_25$desc_gene_annot != "protein TolA::ACX60_RS04595::R272R(CGTCGA)")  #Lots of mutations within gene suggesting poor mapping, occurs twice in two different populations and never in consecutive timepoints
 cast_df_nje_25 <- subset(cast_df_nje_25, cast_df_nje_25$desc_gene_annot != "regulatory protein LysR/::A1S_3470/::intergenic(245/)") #  Weird junction with mostly ends on one side, inconsistent populations
 
-# These mutations are duplicate mutations to those reported in new junction evidence.
-# They reflect the other side of the junction for the mutations reported above, therefore have been removed as these are redundant. 
+# These mutations are duplicate mutations to those reported in new junction evidence, in that they occur at similar frequencies at all timepoints. 
+# When new junction evidence mutations are called as a result of a new insertion, 2 new junctions are reported- one for each side. These reflect the "other side" of insertion mutations already reported and their meaning is redundant.
 cast_df_nje_25 <- subset(cast_df_nje_25, cast_df_nje_25$desc_gene_annot != "phosphocarrier protein HPr::ACX60_RS15180::coding(27/270nt)")
 cast_df_nje_25 <- subset(cast_df_nje_25, cast_df_nje_25$desc_gene_annot != "NADHquinone oxidoreductase subunit B::ACX60_RS14610::coding(673/678nt)")
 cast_df_nje_25 <- subset(cast_df_nje_25, cast_df_nje_25$desc_gene_annot != "phosphoenolpyruvateprotein phosphotransferase::ACX60_RS16050::coding(1251/2295nt)")
